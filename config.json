@@ -1,0 +1,83 @@
+{
+  "code": "DAELIM",
+  "title": "SMASH DAELIM",
+  "school": "대림대",
+  "fullName": "대림대학교",
+  "campusName": "대림대학교",
+  "tagline": "대림대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대림대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대림대학교 3D 화면과 SMASH DAELIM 제목",
+  "url": "https://hong-iron.github.io/SMASH-DAELIM/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 380698408
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "한림관": {
+      "style": "glass",
+      "wall": "#d8d3d5",
+      "glass": "#4f7396",
+      "frame": "#6b6662"
+    },
+    "퇴계관": {
+      "style": "concrete",
+      "wall": "#7e7773",
+      "glass": "#5f7684",
+      "frame": "#6a5f59"
+    },
+    "율곡관": {
+      "style": "glass",
+      "wall": "#c8ccce",
+      "glass": "#3f8597",
+      "frame": "#2f5560"
+    },
+    "홍지관": {
+      "style": "concrete",
+      "wall": "#b0aaa2",
+      "glass": "#3e4a4c",
+      "frame": "#8f8a82"
+    },
+    "다산관": {
+      "style": "stone",
+      "wall": "#e6dfd2",
+      "glass": "#4f5250",
+      "frame": "#7a7d79"
+    },
+    "전산관": {
+      "style": "brick",
+      "wall": "#a66e5e",
+      "glass": "#3a3f45",
+      "frame": "#ece9e4"
+    },
+    "임곡관": {
+      "style": "stone",
+      "wall": "#d6d4cf",
+      "glass": "#42403e",
+      "frame": "#e8955e",
+      "roof": "#a0ab9e",
+      "hip": true
+    },
+    "자동차관": {
+      "style": "stone",
+      "wall": "#c6c3b8",
+      "glass": "#4d7c86",
+      "frame": "#9f9b93"
+    },
+    "정보통신관": {
+      "style": "brick",
+      "wall": "#5b5428",
+      "glass": "#3e4a52",
+      "frame": "#cfd2cf"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
